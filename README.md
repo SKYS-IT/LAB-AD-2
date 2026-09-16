@@ -353,7 +353,7 @@ Ces problèmes m'ont permis de développer une méthode de diagnostic basée sur
 * Lecture des journaux Windows
 * Identification d'un échec de connexion avec l'Event ID 4625
 
-### Troubleshooting
+### Depannage
 
 * Analyse des problèmes d'accès
 * Vérification des permissions
